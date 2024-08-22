@@ -53,7 +53,7 @@ En esta librería aparecen 4 archivos que el usuario puede usar
 - ***README.md*** -> Es el archivo con documentación de software que contiene información acerca de otros archivos relacionados a la librería.
 - ***TestCplx.py*** -> Es el archivo de testeo con diversos casos de prueba para corroborar que las funciones se hayan realizado correctamente y se puedan cambiar las variables y las respuestas para poder verificar un ejercicio realizado con otro programa.
 
-### TestCplx.py
+### test_complex_numbers.py
 
 Contiene una breve información de los casos de cada operación entre números complejos.
 
