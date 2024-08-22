@@ -1,1 +1,42 @@
+# Archivos y carpetas de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Archivos de configuración de entornos virtuales
+venv/
+env/
+.venv/
+.env/
+
+# Archivos de configuración del entorno de desarrollo
+*.vscode/
+*.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos de logs
+*.log
+
+# Archivos de pruebas y reportes
+htmlcov/
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+
+# Archivos de sistema (Mac y Windows)
+.DS_Store
+Thumbs.db
+
+# Archivo de configuración para pytest
+.pytest_cache/
+
+# Archivos específicos de notebooks (opcional si no estás usando Jupyter)
+.ipynb_checkpoints/
+
+# Archivos de entorno (por ejemplo, variables de entorno sensibles)
+.env
 
